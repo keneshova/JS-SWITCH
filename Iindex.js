@@ -10,3 +10,17 @@ function sayBye() {
 sayBye();
 sayBye();
 sayBye();
+
+function sayHelloTo(name) {
+  console.log("hello " + name);
+}
+
+sayHelloTo("Bakyt");
+sayHelloTo("Dastan");
+
+function myCity(city) {
+  console.log("I was born in " + city);
+}
+myCity("Bishkek");
+
+
